@@ -1,0 +1,1 @@
+# mano testinis README
